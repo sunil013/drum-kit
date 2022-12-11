@@ -1,0 +1,29 @@
+{
+  "files": {
+    "main.css": "/drum-kit/static/css/main.40bfbce9.css",
+    "main.js": "/drum-kit/static/js/main.ae182561.js",
+    "static/js/279.a886578f.chunk.js": "/drum-kit/static/js/279.a886578f.chunk.js",
+    "static/media/kick.png": "/drum-kit/static/media/kick.525bee7b6effbef75978.png",
+    "static/media/tom-2.mp3": "/drum-kit/static/media/tom-2.7fe664d362cd359c5776.mp3",
+    "static/media/crash.mp3": "/drum-kit/static/media/crash.83bc7d8d0c0291933c5c.mp3",
+    "static/media/tom-3.mp3": "/drum-kit/static/media/tom-3.a1b1019c94b89ea6bbdb.mp3",
+    "static/media/tom4.png": "/drum-kit/static/media/tom4.122d484b089581b172e4.png",
+    "static/media/tom3.png": "/drum-kit/static/media/tom3.3f095c373b1bca5af832.png",
+    "static/media/tom-4.mp3": "/drum-kit/static/media/tom-4.cee9887a1748fae71598.mp3",
+    "static/media/snare.mp3": "/drum-kit/static/media/snare.310c0bf618526eb5b23e.mp3",
+    "static/media/tom1.png": "/drum-kit/static/media/tom1.74dae9e368a6d7fff424.png",
+    "static/media/tom2.png": "/drum-kit/static/media/tom2.d351814f25050605adb2.png",
+    "static/media/tom-1.mp3": "/drum-kit/static/media/tom-1.1be451e0a574d72a914e.mp3",
+    "static/media/crash.png": "/drum-kit/static/media/crash.b5747617c5a7c27b0a36.png",
+    "static/media/snare.png": "/drum-kit/static/media/snare.a2c115eb83fa2f90a727.png",
+    "static/media/kick-bass.mp3": "/drum-kit/static/media/kick-bass.bbc2c60ca9b3bdf00884.mp3",
+    "index.html": "/drum-kit/index.html",
+    "main.40bfbce9.css.map": "/drum-kit/static/css/main.40bfbce9.css.map",
+    "main.ae182561.js.map": "/drum-kit/static/js/main.ae182561.js.map",
+    "279.a886578f.chunk.js.map": "/drum-kit/static/js/279.a886578f.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.40bfbce9.css",
+    "static/js/main.ae182561.js"
+  ]
+}
